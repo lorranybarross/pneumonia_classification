@@ -1,0 +1,4 @@
+Pillow
+numpy
+streamlit
+ai-edge-litert
