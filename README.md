@@ -32,10 +32,12 @@ Ensure that the model files exported by Teachable Machine are in the correct dir
     ├── model_unquant.tflite             # TFLite model weights
     └── labels.txt                       # Prediction classes (e.g., Normal, Pneumonia)
 
+```
+
 ## ⚙️ How to Run Locally
 1. Clone the repository
     ```bash
-    git clone [https://github.com/lorranybarross/pneumonia_classification.git](https://github.com/lorranybarross/pneumonia_classification.git)
+    git clone https://github.com/lorranybarross/pneumonia_classification.git
     cd pneumonia_classification
 2. Install dependencies
 
